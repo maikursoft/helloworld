@@ -1,3 +1,3 @@
 # helloworld
-this is a test/n
+this is a test. 
 just trying out github.
